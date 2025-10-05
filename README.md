@@ -16,7 +16,6 @@
 
 </div>
 
----
 #### Мои хобби-проекты
 [Программа для разбиения PDF в местах нахождения пустых страниц](https://github.com/bacek97/pdf_splitter_by_blanks) <br />
 [TG-бот для конвератции файлов](https://github.com/bacek97/convert2pdf_pwrd_by_msoffice_bot) <br />

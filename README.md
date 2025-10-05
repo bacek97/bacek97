@@ -16,14 +16,14 @@
 
 </div>
 
-## Мои хобби-проекты
+#### Мои хобби-проекты
 [Программа для разбиения PDF в местах нахождения пустых страниц](https://github.com/bacek97/pdf_splitter_by_blanks) <br />
 [TG-бот для конвератции файлов](https://github.com/bacek97/convert2pdf_pwrd_by_msoffice_bot) <br />
 [Онлайн кинотеатр с удобным поиском](https://github.com/bacek97/pet-MVP_FILMS.TV_Vue) <br />
 [Онлайн калькулятор визы во всех странах]() <br />
 [Мобильное приложение озвучивающее состав товаров по штрихкоду]()
 
-## Мои контакты
+#### Мои контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge)](https://t.me/liliammo)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/bacek97) 
 

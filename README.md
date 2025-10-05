@@ -1,18 +1,6 @@
-## Обо мне
-Привет! Я начинающий Frontend-разработчик, заинтересован в развитии в команде с опытом, где есть возможность получать менторскую поддержку.
+<div align="center">
+  <h3>Middle FullStack TypeScript Developer <a href=""><sup>(визитка)</sup></a></h3>
 
-Увлекаюсь развитием pet-MVP проектов, люблю разбираться в сложных системах. Открыт к предложениям стажировок и Junior-позиций.
-
-Ищу стажировку или позицию Junior Frontend Developer, где смогу:
-- работать над реальными проектами,
-- развиваться в окружении опытных разработчиков,
-- получать регулярный фидбек и расти как специалист
-
-## Мои контакты
-[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge)](https://t.me/liliammo)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/bacek97) 
-
-## Наиболее интересуемый стэк
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
@@ -26,12 +14,19 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Hasura](https://img.shields.io/badge/Hasura-343E99?style=for-the-badge&logo=hasura&logoColor=ffffff)
 
+</div>
+
 ## Мои хобби-проекты
 [Программа для разбиения PDF в местах нахождения пустых страниц](https://github.com/bacek97/pdf_splitter_by_blanks) <br />
 [TG-бот для конвератции файлов](https://github.com/bacek97/convert2pdf_pwrd_by_msoffice_bot) <br />
 [Онлайн кинотеатр с удобным поиском](https://github.com/bacek97/pet-MVP_FILMS.TV_Vue) <br />
 [Онлайн калькулятор визы во всех странах]() <br />
-[Мобильное приложение озвучивающее состав товаров со штрихкодом]()
+[Мобильное приложение озвучивающее состав товаров по штрихкоду]()
+
+## Мои контакты
+[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge)](https://t.me/liliammo)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/bacek97) 
+
 
 
 

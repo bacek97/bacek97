@@ -16,6 +16,7 @@
 
 </div>
 
+---
 #### Мои хобби-проекты
 [Программа для разбиения PDF в местах нахождения пустых страниц](https://github.com/bacek97/pdf_splitter_by_blanks) <br />
 [TG-бот для конвератции файлов](https://github.com/bacek97/convert2pdf_pwrd_by_msoffice_bot) <br />
@@ -29,22 +30,3 @@
 
 
 
-
-
----
-[![](https://visitcount.itsvg.in/api?id=Miffle&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!--
-**bacek97/bacek97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -1,31 +1,75 @@
-<div align="center">
-  <h3>Middle FullStack TypeScript Developer <a href=""><sup>(визитка)</sup></a></h3>
+# Vasilii Kostin
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Google Apps Script](https://img.shields.io/badge/GAppsScript-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Hasura](https://img.shields.io/badge/Hasura-343E99?style=for-the-badge&logo=hasura&logoColor=ffffff)
+**Middle FullStack TypeScript Developer**
 
-</div>
+Batumi, Georgia | [TG, WA: +79003213841](http://t.me/liliammo) | [linkedin.com/in/bacek97](https://linkedin.com/in/bacek97) | [github.com/bacek97](https://github.com/bacek97)
 
-#### Мои хобби-проекты
-[Программа для разбиения PDF в местах нахождения пустых страниц](https://github.com/bacek97/pdf_splitter_by_blanks) <br />
-[TG-бот для конвератции файлов](https://github.com/bacek97/convert2pdf_pwrd_by_msoffice_bot) <br />
-[Онлайн кинотеатр с удобным поиском](https://github.com/bacek97/pet-MVP_FILMS.TV_Vue) <br />
-[Онлайн калькулятор визы во всех странах]() <br />
-[Мобильное приложение озвучивающее состав товаров по штрихкоду]()
+***
 
-#### Мои контакты
-[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge)](https://t.me/liliammo)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/bacek97) 
+## Skills
+
+* **Programming Languages**: TypeScript, JavaScript, GAppScript, C, PostgreSQL, MongoDB (MQL)
+* **Frameworks**: React, Vue.js, Tailwind CSS, Bootstrap, MaterialUI, AntD, MobX, shadcn/ui
+* **Tools & Platforms**: Git, Jira, Webpack, Vite, Vercel, Docker,  Kubernetes, Hasura
+
+***
+
+## Projects
+
+**PDF Splitter** 
+*A tool that splits PDF files at blank pages automatically.*
+
+* Built with Bash for fast and lightweight PDF processing.  
+* Detects blank pages to automate splitting.    
+
+**FileConverterBot** 
+*A Telegram bot for converting files between different formats.*
+
+* Developed with PowerShell for seamless file handling.  
+* Supports multiple formats and real-time conversion. 
+
+**MovieFilter** 
+*An online movie streaming platform with advanced search functionality.*
+
+* Built with TypeScript for a robust frontend experience.  
+* Implemented efficient search and filtering for quick access to movies.   
+
+**VisaCalculator** 
+*An online calculator for visa requirements for all countries.*
+
+* Developed using TypeScript for a responsive and reliable interface.  
+* Provides accurate visa info based on user nationality and destination.
+
+**BarcodeReaderApp** *A mobile app that reads product ingredients using barcodes.*
+
+* Built with TypeScript and React Native for cross-platform support.  
+* Integrated barcode scanning and text-to-speech functionality.  
+
+***
+
+## Experience
+**Startup for logistics** *March 2024 – June 2025 | 1 year 3 months*  
+* Position: FullStack Developer, remote, in a team of 2 members  
+* Responsibilities: Researching, designing, developing the whole project in JS
+
+**Inango** *Kazakhstan | November 2022 – February 2024 | 1 year 3 months*  
+* Position: Software Engineer (embedded/backend), remote, in a team of 10 members  
+* Responsibilities: Software dev in C11, Go, shell for custom OpenWrt-based network OS
+***
+
+## Education
+
+**Alem School, Astana Hub, Kazakhstan | 2023**  
+* Focus: Go programming  
+* Self-paced, project-driven learning
+
+**School 21, Russia | 2022**  
+* Focus: C, Backend, Frontend, DevOps  
+* Project-based learning, collaborative environment  
 
 
+***
 
+## Interests
+
+* **Hobbies**: Exploring new JavaScript frameworks, leetcode tasks, computer science.

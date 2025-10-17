@@ -29,7 +29,7 @@ Batumi, Georgia | [TG, WA: +79003213841](http://t.me/liliammo) | [linkedin.com/i
 * Supports multiple formats and real-time conversion. 
 
 **MovieFilter** 
-*An online movie streaming platform with advanced search functionality.*
+*An online movie filtering platform with advanced search functionality.*
 
 * Built with TypeScript for a robust frontend experience.  
 * Implemented efficient search and filtering for quick access to movies.   

@@ -67,6 +67,12 @@ Batumi, Georgia | [TG, WA: +79003213841](http://t.me/liliammo) | [linkedin.com/i
 * Focus: C, Backend, Frontend, DevOps  
 * Project-based learning, collaborative environment  
 
+***
+
+## Certificates
+
+* **JavaScript Algorithms and Data Structures** - FreeCodeCamp
+* **HTTP Servers in TypeScript** - Boot.dev
 
 ***
 

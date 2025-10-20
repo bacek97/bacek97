@@ -11,7 +11,6 @@ Batumi, Georgia | [TG, WA: +79003213841](https://t.me/liliammo) | [linkedin.com/
 * **Frameworks & Libs**: React, Vue.js, Tailwind, shadcn/ui, AntD, MobX, Pinia, RxJS, Three.js
 * **Tools & Platforms**: Git, Webpack, Vite, Vercel, Docker, Kubernetes, Hasura, Deno
 
-***
 ## Projects
 
 **[PDF Splitter](https://github.com/bacek97/pdf_splitter_by_blanks)** 
@@ -43,7 +42,6 @@ Batumi, Georgia | [TG, WA: +79003213841](https://t.me/liliammo) | [linkedin.com/
 * Built with TypeScript and React Native for cross-platform support.  
 * Integrated barcode scanning and text-to-speech functionality.  
 
-***
 ## Experience
 **Startup for logistics** *March 2024 – June 2025 | 1 year 3 months*  
 * Position: FullStack Developer, remote, in a team of 2 members  
@@ -53,7 +51,6 @@ Batumi, Georgia | [TG, WA: +79003213841](https://t.me/liliammo) | [linkedin.com/
 * Position: Software Engineer (embedded/backend), remote, in a team of 10 members  
 * Responsibilities: Software dev in C11, Go, shell for custom OpenWrt-based network OS
 
-***
 ## Education
 
 **Alem School, Astana Hub, Kazakhstan | 2023**  
@@ -64,14 +61,12 @@ Batumi, Georgia | [TG, WA: +79003213841](https://t.me/liliammo) | [linkedin.com/
 * Focus: C, Backend, Frontend, DevOps  
 * Project-based learning, collaborative environment  
 
-***
 ## Certificates
 
 * **JavaScript Algorithms and Data Structures** - [FreeCodeCamp](https://www.freecodecamp.org/bacek97)
 * **HTTP Servers in TypeScript** - [Boot.dev](https://www.boot.dev/u/bacek97)
 * **SQL & Pandas** - [LeetCode](https://leetcode.com/u/bacek97/)
 
-***
 
 ## Interests
 

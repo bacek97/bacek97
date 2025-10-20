@@ -61,7 +61,7 @@ Batumi, Georgia | [TG, WA: +79003213841](https://t.me/liliammo) | [linkedin.com/
 * **HTTP Servers in TypeScript** - [Boot.dev](https://www.boot.dev/u/bacek97)
 * **SQL & Pandas** - [LeetCode](https://leetcode.com/u/bacek97/)
 
-
-## Interests
-
-* **Hobbies**: Exploring new JavaScript frameworks, leetcode tasks, computer science.
+***
+[#Hackathon](https://vk.com/search/statuses?c[q]=%23Hackathon) participant, 
+[#TechBlog](https://www.linkedin.com/in/bacek97/) author,
+[#GithubPullRequests](https://github.com/bacek97/bacek97/pulls) contributor.  

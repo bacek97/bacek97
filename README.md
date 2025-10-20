@@ -49,7 +49,7 @@ Batumi, Georgia | [TG, WA: +79003213841](https://t.me/liliammo) | [linkedin.com/
 
 **Inango** *Kazakhstan | November 2022 – February 2024 | 1 year 3 months*  
 * Position: Software Engineer (embedded/backend), remote, in a team of 10 members  
-* Responsibilities: Software dev in C11, Go, shell for custom OpenWrt-based network OS
+* Responsibilities: Software dev in C11, Go, Shell for custom OpenWrt-based network OS
 
 ## Education
 

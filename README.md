@@ -14,32 +14,32 @@ Batumi, Georgia | [TG, WA: +79003213841](https://t.me/liliammo) | [linkedin.com/
 ## Projects
 
 **[PDF Splitter](https://github.com/bacek97/pdf_splitter_by_blanks) + [ConverterBot](https://t.me/convert2pdf_pwrd_by_msoffice_bot)** 
-*A tool that splits PDF files at blank pages automatically.*
+*Bash, PowerShell.*
 
 * Built with Bash for fast and lightweight PDF processing.  
 * Detects blank pages to automate splitting.    
 
 **[VisaDaysCalculator]()** 
-*An online calculator for visa requirements for all countries.*
+*TypeScript, React Native.*
 
-* Developed using TypeScript for a responsive and reliable interface.  
+* An online calculator for visa requirements for all countries.  
 * Provides accurate visa info based on user nationality and destination.
 
 **[Film.TV]()** 
-*An online movie filtering platform with advanced search functionality.*
+*TypeScript, Vue.*
 
-* Built with TypeScript for a robust frontend experience.  
+* An online movie filtering platform with advanced search functionality.  
 * Implemented efficient search and filtering for quick access to movies.   
 
-**[AmNyamAPI]()** *A mobile app that reads product ingredients using barcodes.*
+**[AmNyamAPI]()** *TypeScript, NestJS, Hasura, GraphQL.*
 
-* Built with TypeScript and React Native for cross-platform support.  
-* Integrated barcode scanning and text-to-speech functionality.  
+* Search for stores offering the lowest price on goods.  
+* Subscription to product price updates.  
 
 ## Experience
 **Startup for logistics** *March 2024 – June 2025 | 1 year 3 months*  
 * Position: FullStack Developer, remote, in a team of 2 members  
-* Responsibilities: Researching, designing, developing the whole project in JS
+* Responsibilities: Research, design, development of the whole project in JS
 
 **Inango** *Kazakhstan | November 2022 – February 2024 | 1 year 3 months*  
 * Position: Software Engineer (embedded/backend), remote, in a team of 10 members  

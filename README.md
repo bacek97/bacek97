@@ -13,17 +13,11 @@ Batumi, Georgia | [TG, WA: +79003213841](https://t.me/liliammo) | [linkedin.com/
 
 ## Projects
 
-**[PDF Splitter](https://github.com/bacek97/pdf_splitter_by_blanks)** 
+**[PDF Splitter](https://github.com/bacek97/pdf_splitter_by_blanks) + [ConverterBot](https://t.me/convert2pdf_pwrd_by_msoffice_bot)** 
 *A tool that splits PDF files at blank pages automatically.*
 
 * Built with Bash for fast and lightweight PDF processing.  
 * Detects blank pages to automate splitting.    
-
-**[SafetyFileConverterBot](https://t.me/convert2pdf_pwrd_by_msoffice_bot)** 
-*A Telegram bot for converting files between different formats.*
-
-* Developed with PowerShell for seamless file handling.  
-* Supports multiple formats and real-time conversion. 
 
 **[VisaDaysCalculator]()** 
 *An online calculator for visa requirements for all countries.*

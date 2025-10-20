@@ -1,4 +1,4 @@
-# Vasilii Kostin
+# Vasiliy Kostin
 
 **Middle FullStack TypeScript Developer**
 

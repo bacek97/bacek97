@@ -2,7 +2,7 @@
 
 **Middle FullStack TypeScript Developer**
 
-Batumi, Georgia | [TG, WA: +79003213841](https://t.me/liliammo) | [linkedin.com/in/bacek97](https://linkedin.com/in/bacek97) | [bacek97.github.io](https://bacek97.github.io)
+Batumi, Georgia | [TG, WA: +79003213841](https://t.me/liliammo) |  [bacek97.github.io](https://bacek97.github.io) | [linkedin.com/in/bacek97](https://linkedin.com/in/bacek97)
 
 ***
 ## Skills

@@ -41,7 +41,7 @@ Batumi, Georgia | [TG, WA: +79003213841](https://t.me/liliammo) | [linkedin.com/
 * Position: FullStack Developer, remote, in a team of 2 members  
 * Responsibilities: Research, design, development of the whole project in JS
 
-**Inango** *Kazakhstan | November 2022 – February 2024 | 1 year 3 months*  
+[**Inango**](https://career.habr.com/companies/inango) *Kazakhstan | November 2022 – February 2024 | 1 year 3 months*  
 * Position: Software Engineer (embedded/backend), remote, in a team of 10 members  
 * Responsibilities: Software dev in C, Go, Shell for custom OpenWrt-based network OS
 

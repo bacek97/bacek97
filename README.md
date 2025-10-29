@@ -49,11 +49,11 @@ Batumi, Georgia | [TG, WA: +79003213841](https://t.me/liliammo) | [linkedin.com/
 
 **Alem School, Astana Hub, Kazakhstan | 2023**  
 * Focus: Go programming  
-* Intensive, project-based program with a deep technical focus, teamwork and communication skills, and challenging deadlines in a daily on-site coworking space.
+* Intensive, project-based program with a deep technical focus, teamwork, communication skills, and challenging deadlines in a daily on-site coworking space.
 
 **School 21, Kazan IT Quarter, SberTech, Russia | 2022**  
 * Focus: C, Backend, Frontend, DevOps  
-* Intensive, project-based program with a deep technical focus, teamwork and communication skills, and challenging deadlines in a daily on-site coworking space.
+* Intensive, project-based program with a deep technical focus, teamwork, communication skills, and challenging deadlines in a daily on-site coworking space.
 
 ## Certificates
 

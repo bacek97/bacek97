@@ -25,13 +25,13 @@ Batumi, Georgia | [TG, WA: +79003213841](https://t.me/liliammo) |  [bacek97.gith
 * An online calculator for visa requirements for all countries.  
 * Provides accurate visa info based on user nationality and destination.
 
-**[Film.TV]()** 
+**[QR Code flexible editor]()** 
 *TypeScript, Vue.*
 
 * An online movie filtering platform with advanced search functionality.  
 * Implemented efficient search and filtering for quick access to movies.   
 
-**[AmNyamAPI]()** *TypeScript, NestJS, Hasura, GraphQL.*
+**[Sparta]()** *TypeScript, NestJS, Hasura, GraphQL.*
 
 * Search for stores offering the lowest price on goods.  
 * Subscription to product price updates.  

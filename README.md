@@ -25,7 +25,7 @@ Batumi, Georgia | [TG, WA: +79003213841](https://t.me/liliammo) |  [bacek97.gith
 * An online calculator for visa requirements for all countries.  
 * Provides accurate visa info based on user nationality and destination.
 
-**[URL Generator & QR Designer]()** 
+**[URL Generator & QR Designer](//bacek97.github.io/qr_designer/)** 
 *TypeScript, Vue.*
 
 * An online movie filtering platform with advanced search functionality.  

@@ -10,7 +10,7 @@ Batumi, Georgia | [TG, WA: +79003213841](https://t.me/liliammo) |  [bacek97.gith
 * **Programming Languages**: TypeScript, JavaScript, GAppScript, C, PostgreSQL, MongoDB (MQL)
 * **Frameworks & Libs**: React, Vue.js, Tailwind, shadcn/ui, AntD, MobX, Pinia, RxJS, Three.js
 * **Tools & Platforms**: Git, Webpack, Vite, Vercel, Docker, Kubernetes, Hasura, Deno
-* **AI**: GitHub Copilot, Cursor, Codex, OpenAI/Anthropic API, Claude Code, n8n, CLEAR, Context Engineering, RAG pattern
+* **AI**: GitHub Copilot, Cursor, Codex, OpenAI/Anthropic API, Claude Code, Qwen, Perplexity, n8n, CLEAR, Context Engineering, RAG pattern
 
 ## Projects
 

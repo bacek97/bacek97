@@ -65,4 +65,4 @@ Batumi, Georgia | [TG, WA: +79003213841](https://t.me/liliammo) |  [bacek97.gith
 ***
 [#Hackathon](https://vk.com/search/statuses?c[q]=%23Hackathon) participant, 
 [#TechBlog](https://www.linkedin.com/in/bacek97/) author,
-[#GithubPullRequests](https://github.com/bacek97/bacek97/pulls) contributor.
+[#GithubPullRequests](https://github.com/search?q=author:bacek97+is:pr) contributor.

@@ -20,17 +20,17 @@ Batumi, Georgia | [TG, WA: +79003213841](https://t.me/liliammo) |  [bacek97.gith
 * Built with Bash for fast and lightweight PDF processing.  
 * Detects blank pages to automate splitting.    
 
+**[URL Generator & QR Designer](//bacek97.github.io/qr_designer/)** 
+*TypeScript, Vue.*
+
+* An online movie filtering platform with advanced search functionality.  
+* Implemented efficient search and filtering for quick access to movies.
+   
 **[VisaDaysCalculator]()** 
 *TypeScript, React Native.*
 
 * An online calculator for visa requirements for all countries.  
 * Provides accurate visa info based on user nationality and destination.
-
-**[URL Generator & QR Designer](//bacek97.github.io/qr_designer/)** 
-*TypeScript, Vue.*
-
-* An online movie filtering platform with advanced search functionality.  
-* Implemented efficient search and filtering for quick access to movies.   
 
 **[Sparta]()** *TypeScript, NestJS, Hasura, GraphQL.*
 

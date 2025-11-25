@@ -32,7 +32,7 @@ Batumi, Georgia | [TG, WA: +79003213841](https://t.me/liliammo) |  [bacek97.gith
 * An online calculator for visa requirements for all countries.  
 * Provides accurate visa info based on user nationality and destination.
 
-**[Sparta]()** *TypeScript, NestJS, Hasura, GraphQL.*
+**[iSparta](//github.com/bacek97/iSparta)** *TypeScript, NestJS, Hasura, GraphQL.*
 
 * Search for stores offering the lowest price on goods.  
 * Subscription to product price updates.  

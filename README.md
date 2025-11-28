@@ -17,13 +17,13 @@ Batumi, Georgia | [TG, WA: +79003213841](https://t.me/liliammo) |  [bacek97.gith
 **[PDF Splitter](https://github.com/bacek97/pdf_splitter_by_blanks) + [ConverterBot](https://t.me/convert2pdf_pwrd_by_msoffice_bot)** 
 *Bash, PowerShell.*
 
-* Built with Bash for fast and lightweight PDF processing.  
-* Detects blank pages to automate splitting.    
+* Program for detects blank pages to automate splitting .PDF files 
+* Bot for fastly lossless convert .DOCx, .PPTx to .PDF
 
 **[URL Generator & QR Designer](//bacek97.github.io/qr_designer/)** 
-*TypeScript, Vue.*
+*JavaScript.*
 
-* An online movie filtering platform with advanced search functionality.  
+* A handy tool for making and coloring QR codes, with automatic validity checks after any modifications 
 * Implemented efficient search and filtering for quick access to movies.
    
 **[VisaDaysCalculator]()** 
@@ -32,10 +32,11 @@ Batumi, Georgia | [TG, WA: +79003213841](https://t.me/liliammo) |  [bacek97.gith
 * An online calculator for visa requirements for all countries.  
 * Provides accurate visa info based on user nationality and destination.
 
-**[iSparta](//github.com/bacek97/iSparta)** *TypeScript, NestJS, Hasura, GraphQL.*
+**[iSparta](//github.com/bacek97/iSparta)** 
+*TypeScript, React Native, Hasura, GraphQL.*
 
-* Search for stores offering the lowest price on goods.  
-* Subscription to product price updates.  
+* A mobile app that recognizes gestures and poses
+* Counts the number of squats and push-ups
 
 ## Experience
 **Startup for logistics** *March 2024 – June 2025 | 1 year 3 months*  

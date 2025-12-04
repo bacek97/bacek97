@@ -1,63 +1,63 @@
-# Vasiliy Kostin
+# Василий Костин
 
 **Middle FullStack TypeScript Developer**
 
-Batumi, Georgia | [TG, WA: +79003213841](https://t.me/liliammo) |  [bacek97.github.io](https://bacek97.github.io) | [linkedin.com/in/bacek97](https://linkedin.com/in/bacek97)
+Батуми, Грузия | [TG, WA: +79003213841](https://t.me/liliammo) |  [bacek97.github.io](https://bacek97.github.io) | [linkedin.com/in/bacek97](https://linkedin.com/in/bacek97)
 
 ***
-## Skills
+## Навыки
 
-* **Programming Languages**: TypeScript, JavaScript, GAppScript, C, PostgreSQL, MongoDB (MQL)
-* **Frameworks & Libs**: React, Vue.js, Tailwind, shadcn/ui, AntD, MobX, Pinia, RxJS, Three.js
-* **Tools & Platforms**: Git, Webpack, Vite, Vercel, Docker, Kubernetes, Hasura, Deno
+* **Языки программирования**: TypeScript, JavaScript, GAppScript, C, PostgreSQL, MongoDB (MQL)
+* **Фреймворки и библиотеки**: React, Vue.js, Tailwind, shadcn/ui, AntD, MobX, Pinia, RxJS, Three.js
+* **Инструменты и платформы**: Git, Webpack, Vite, Vercel, Docker, Kubernetes, Hasura, Deno
 * **AI**: Context Engineering, CLEAR, RAG, Milvus, Qdrant, OpenAI/Anthropic API, n8n 
 
-## Projects
+## Проекты
 
 **[PDF Splitter](https://github.com/bacek97/pdf_splitter_by_blanks) + [ConverterBot](https://t.me/convert2pdf_pwrd_by_msoffice_bot)** 
 *Bash, PowerShell.*
 
-* Program for detects blank pages to automate splitting .PDF files 
-* Bot for fastly lossless convert .DOCx, .PPTx to .PDF
+* Программа для определения пустых страниц для автоматического разделения PDF-файлов
+* Бот для быстрой и без потери качества конвертации .DOCX, .PPTX → .PDF
 
 **[URL Generator & QR Designer](//bacek97.github.io/qr_designer/)** 
 *JavaScript.*
 
-* A handy tool for making and coloring QR codes, with automatic validity checks after any modifications 
-* Implemented efficient search and filtering for quick access to movies.
+* Инструмент для создания и раскрашивания QR-кодов с автоматической проверкой валидности после любых изменений 
+* Реализован эффективный поиск и фильтрация для быстрого доступа к фильмам
    
 **[VisaDaysCalculator]()** 
 *TypeScript, React Native.*
 
-* An online calculator for visa requirements for all countries.  
-* Provides accurate visa info based on user nationality and destination.
+* Онлайн-калькулятор требований для виз всех стран  
+* Предоставляет точную визовую информацию на основе гражданства и страны назначения
 
 **[iSparta](//github.com/bacek97/iSparta)** 
 *TypeScript, React Native, Hasura, GraphQL.*
 
-* A mobile app that recognizes gestures and poses
-* Counts the number of squats and push-ups
+* Мобильное приложение, которое распознаёт жесты и позы 
+* Считает количество приседаний и отжиманий
 
-## Experience
-**Startup for logistics** *March 2024 – June 2025 | 1 year 3 months*  
-* Position: FullStack Developer, remote, in a team of 2 members  
-* Responsibilities: Research, design, development of the whole project in JS
+## Опыт работы
+**Стартап в сфере логистики** *Март 2024 – Июнь 2025 | 1 год 3 месяца*  
+* Должность: FullStack Developer, удаленно, команда из 2 человек
+* Обязанности: Исследование, проектирование и разработка всего проекта на JavaScript
 
-[**Inango**](https://career.habr.com/companies/inango) *Kazakhstan | November 2022 – February 2024 | 1 year 3 months*  
-* Position: Software Engineer (embedded/backend), remote, in a team of 10 members  
-* Responsibilities: Software dev in C, Go, Shell for custom OpenWrt-based network OS
+[**Inango**](https://career.habr.com/companies/inango) *Казахстан | Ноябрь 2022 – Февраль 2024 | 1 год 3 месяца*  
+* Должность: Software Engineer (embedded/backend), удаленно, команда из 10 человек
+* Обязанности: Разработка ПО на C, Go, Shell для кастомной сетевой ОС на базе OpenWrt
 
-## Education
+## Образование
 
-**Alem School, Astana Hub, Kazakhstan | 2023**  
-* Focus: Go programming  
-* Intensive, project-based program with a deep technical focus, teamwork, communication skills, and challenging deadlines in a daily on-site coworking space.
+**Alem School, Astana Hub, Казахстан | 2023**  
+* Фокус: Программирование на Go  
+* Интенсивная проектная программа с техническим упором, командной работой, коммуникативными навыками и жесткими сроками в условиях ежедневного совместного коворкинга.
 
-**School 21, Kazan IT Quarter, SberTech, Russia | 2022**  
-* Focus: C, Backend, Frontend, DevOps  
-* Intensive, project-based program with a deep technical focus, teamwork, communication skills, and challenging deadlines in a daily on-site coworking space.
+**Школа 21, Казанский IT-Квартал, SberTech, Россия | 2022**  
+* Фокус: C, Backend, Frontend, DevOps  
+* Интенсивная проектная программа с глубоким техническим погружением, командной работой, коммуникацией и сложными дедлайнами.
 
-## Certificates
+## Сертификаты
 
 * **JavaScript Algorithms and Data Structures** - [freeCodeCamp](https://www.freecodecamp.org/bacek97)
 * **HTTP Servers in TypeScript** - [Boot.dev](https://www.boot.dev/u/bacek97)

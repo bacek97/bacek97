@@ -10,7 +10,7 @@
 * **Языки программирования**: TypeScript, JavaScript, GAppScript, C, PostgreSQL, MongoDB (MQL)
 * **Фреймворки и библиотеки**: React, Vue.js, Tailwind, shadcn/ui, AntD, MobX, Pinia, RxJS, Three.js
 * **Инструменты и платформы**: Git, Webpack, Vite, Vercel, Docker, Kubernetes, Hasura, Deno
-* **AI**: Context Engineering, CLEAR, RAG, Milvus, Qdrant, OpenAI/Anthropic API, n8n 
+* **AI**: Context Engineering, CLEAR, OpenAI/Anthropic API
 
 ## Проекты
 
@@ -25,14 +25,8 @@
 
 * Инструмент для создания и раскрашивания QR-кодов с автоматической проверкой валидности после любых изменений 
 * Реализован эффективный поиск и фильтрация для быстрого доступа к фильмам
-   
-**[VisaDaysCalculator]()** 
-*TypeScript, React Native.*
 
-* Онлайн-калькулятор требований для виз всех стран  
-* Предоставляет точную визовую информацию на основе гражданства и страны назначения
-
-**[iSparta](//github.com/bacek97/iSparta)** 
+**[iSparta](https://www.rustore.ru/catalog/app/com.isparta)** 
 *TypeScript, React Native, Hasura, GraphQL.*
 
 * Мобильное приложение, которое распознаёт жесты и позы 
